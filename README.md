@@ -1,2 +1,2 @@
 # Eucalyptus
-Evaluate HP Eucalyptus
+Proof of Concept
